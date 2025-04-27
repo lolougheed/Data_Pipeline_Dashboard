@@ -2,7 +2,9 @@
    Data found via Kaggle (https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset?resource=download)
 
 Write-up:
-    I built this project to dive into retail sales data and transform it into something that makes sense for business decisions. Starting from a RAW dataset, I set up a full pipeline:
+    I built this project to dive into retail sales data and transform it into something that makes sense for business decisions.  
+   
+   Starting from a RAW dataset, I set up a full pipeline:
     - Cleaned and processed the data into a more efficient format
     - Explored the trends, seasonality, and profitability through Jupyter
     - Found some interesting patterns - like bookcases and tables consistently hurting profits across a majority of the regions
